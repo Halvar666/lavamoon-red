@@ -18,17 +18,11 @@
     </em:targetApplication>
    
     <!-- Front End MetaData -->
-    <em:name>LavaMoon Red</em:name>
-    <em:type>4</em:type>
-    <em:description>Pale Moon pre-release theme by Halvar</em:description>
-    <em:creator>Halvar</em:creator>
-    <em:contributor>Nick C. - Code help and motivation</em:contributor>
-    <em:contributor>frankell - Testing and inspiration</em:contributor>
-    <em:contributor>stakadush - OSX Testing</em:contributor>
-    <em:contributor>sparkythewondersquid - Linux Testing</em:contributor>
-    <em:contributor>Aronnax! - Code help and motivation</em:contributor>
-    <em:contributor>Paenglab - Win7 Testing Code help and motivation</em:contributor>
-    <em:unpack>true</em:unpack>
+<em:name>LavaMoon Red</em:name>
+<em:type>4</em:type>
+<em:description>Pale Moon pre-release theme by Halvar</em:description>
+<em:creator>Halvar</em:creator>
+<em:unpack>true</em:unpack>
 
     <!-- Front End Integration Hooks (used by Theme Manager)-->
     <em:internalName>LavaMoon_Red</em:internalName>
