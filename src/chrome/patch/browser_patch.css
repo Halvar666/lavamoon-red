@@ -1,0 +1,71 @@
+/* External browser patch hook for LavaMoon fixes. */
+
+/* Cross-platform urlbar/searchbar geometry adjustments with LavaMoon visuals. */
+
+/* Textbox geometry adjustments scoped only to urlbar/searchbar. */
+#urlbar html|*.textbox-input,
+#urlbar html|input,
+.searchbar-textbox html|*.textbox-input,
+.searchbar-textbox html|input {
+  color: inherit !important;
+  font: inherit !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  border: 0 !important;
+  background-color: inherit !important;
+  height: 18px !important;
+  min-height: 0 !important;
+  max-height: 18px !important;
+  line-height: 18px !important;
+  -moz-appearance: none !important;
+}
+
+#urlbar .textbox-input-box,
+.searchbar-textbox .textbox-input-box {
+  margin: 0 !important;
+  padding: 0 !important;
+  -moz-box-align: center !important;
+}
+
+/* Keep the current inner row geometry without altering the skin. */
+#urlbar {
+  min-width: 7em !important;
+  min-height: 22px !important;
+  margin: 0 2px !important;
+  padding: 0 !important;
+}
+
+#urlbar > .private-autocomplete-textbox-container,
+#urlbar > .autocomplete-textbox-container {
+  -moz-box-align: stretch !important;
+  direction: ltr !important;
+}
+
+#urlbar > .private-autocomplete-textbox-container > .textbox-input-box,
+#urlbar > .autocomplete-textbox-container > .textbox-input-box,
+#urlbar .urlbar-frontcap-and-textbox .urlbar-input-box,
+#urlbar .private-autocomplete-textbox-container-fission > .textbox-input-box {
+  padding: 0 5px 0 8px !important;
+  border-left: none !important;
+  background: transparent !important;
+}
+
+#urlbar-icons {
+  -moz-box-align: center !important;
+  height: 18px !important;
+  padding-right: 2px !important;
+}
+
+#urlbar[pageproxystate=invalid] > #urlbar-icons > :not(#go-button),
+#urlbar[pageproxystate=valid] > #urlbar-icons > #go-button,
+#urlbar[empty=true] > #urlbar-icons > #go-button {
+  visibility: collapse !important;
+}
+
+/* Favicon/throbber spacing adjustments while keeping LavaMoon graphics. */
+#page-proxy-favicon,
+#urlbar-throbber {
+  width: 16px !important;
+  height: 16px !important;
+  margin: 2px -4px 2px 8px !important;
+}

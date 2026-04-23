@@ -1,0 +1,16 @@
+LavaMoon Red
+
+This repository contains an unofficial Pale Moon adaptation of the original LavaFox V2 2.1.1 theme by Zigboom.
+
+Original theme author:
+- Zigboom
+
+Adaptation and maintenance for Pale Moon:
+- Halvar
+
+License:
+Mozilla Public License Version 1.1 (MPL 1.1)
+
+This project is based on the same licensing basis as LavaFox V2.
+
+This repository is intended to preserve, adapt, and maintain the original theme for use with modern Pale Moon builds while keeping proper credit to the original author.

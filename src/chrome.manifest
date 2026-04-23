@@ -1,0 +1,7 @@
+skin    browser       LavaMoon_Red jar:chrome/LavaMoon-Red-Hybrid.jar!/browser/
+skin    communicator  LavaMoon_Red jar:chrome/LavaMoon-Red-Hybrid.jar!/communicator/
+skin    global        LavaMoon_Red jar:chrome/LavaMoon-Red-Hybrid.jar!/global/
+skin    mozapps       LavaMoon_Red jar:chrome/LavaMoon-Red-Hybrid.jar!/mozapps/
+
+
+skin    lavamoonred_patch LavaMoon_Red chrome/patch/
