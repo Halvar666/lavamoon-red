@@ -1,21 +1,28 @@
 # LavaMoon Red
 
-LavaMoon Red is a Pale Moon theme based on the original LavaFox V2 2.1.1 theme by Zigboom.
+LavaMoon Red is a Pale Moon fork/adaptation based on the original LavaFox V2 2.1.1 theme by Zigboom.
 
-This repository contains the current Pale Moon adaptation of the red variant, maintained as an in-progress port for modern Pale Moon builds.
+This fork/adaptation is developed and distributed with written permission from the original author.
+
+The Pale Moon compatibility adaptation and related compatibility modifications were made by Halvar666.
 
 ## Status
 
-This theme is still in development and should be treated as a pre-release project rather than a final stable release.
+This is the first stable Pale Moon release of LavaMoon Red.
+
+## License
+
+LavaMoon Red remains subject to the same license and terms as the original LavaFox V2 theme unless otherwise stated by the original author.
+
+The original license terms are included in `LICENSE.txt` and in the theme package as `READ ME  IMPORTANT.txt`.
 
 ## Credits
 
 Original theme:
-- Zigboom
 
-Pale Moon adaptation and ongoing maintenance:
-- Halvar
+* Zigboom
 
-## Notes
+Pale Moon compatibility adaptation:
 
-The goal of this project is to preserve the original visual style as closely as practical while keeping the theme usable in current Pale Moon versions.
+* Halvar666
+

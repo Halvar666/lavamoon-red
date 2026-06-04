@@ -5,7 +5,7 @@ If you want to use elements out of this theme for private use only there is no n
 THEME LICENSE - READ ME - IMPORTANT
 
 This theme contains copyrighted material.  The author of this theme
-(Zigboom "[zigboom@hotmail.com](mailto:zigboom@hotmail.com)", the "Author") reserves all applicable rights under
+(Zigboom "zigboom@hotmail.com", the "Author") reserves all applicable rights under
 law.  You may not use this theme except in compliance
 with the following terms.
 
@@ -39,9 +39,8 @@ as stated in TERMS OF USE above.
 
 PALE MOON FORK / ADAPTATION PERMISSION
 
-This Pale Moon fork/adaptation is based on the original LavaFox V2 theme by Zigboom and is developed and distributed with written permission from the original Author.
+This Pale Moon fork/adaptation is based on the original LavaFox / LavaFox Blue theme by Zigboom and is developed and distributed with written permission from the original Author.
 
 The Pale Moon compatibility adaptation and related compatibility modifications were made by Halvar666.
 
 This fork/adaptation remains subject to the same license and terms as the original theme unless otherwise stated by the original Author.
-

@@ -5,7 +5,7 @@
 
   <Description about="urn:mozilla:install-manifest">
     <em:id>lavamoonred@palemoon-theme</em:id>
-    <em:version>2.1.1a52</em:version>
+    <em:version>2.2.0</em:version>
 
     <!-- Target Application this extension can install into,
          with minimum and maximum supported versions. -->
@@ -18,11 +18,12 @@
     </em:targetApplication>
    
     <!-- Front End MetaData -->
-<em:name>LavaMoon Red</em:name>
-<em:type>4</em:type>
-<em:description>Pale Moon pre-release theme by Halvar</em:description>
-<em:creator>Halvar</em:creator>
-<em:unpack>true</em:unpack>
+    <em:name>LavaMoon Red</em:name>
+    <em:type>4</em:type>
+    <em:description>Pale Moon fork/adaptation of LavaFox, used with permission from the original author</em:description>
+    <em:creator>Zigboom</em:creator>
+    <em:contributor>Halvar666 - Pale Moon compatibility adaptation</em:contributor>
+    <em:unpack>true</em:unpack>
 
     <!-- Front End Integration Hooks (used by Theme Manager)-->
     <em:internalName>LavaMoon_Red</em:internalName>
