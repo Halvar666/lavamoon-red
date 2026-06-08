@@ -41,7 +41,16 @@ PALE MOON FORK / ADAPTATION PERMISSION
 
 This Pale Moon fork/adaptation is based on the original LavaFox V2 theme by Zigboom and is developed and distributed with written permission from the original Author.
 
-The Pale Moon compatibility adaptation and related compatibility modifications were made by Halvar666.
+The Pale Moon fork/adaptation and related compatibility modifications were made by Halvar666.
 
 This fork/adaptation remains subject to the same license and terms as the original theme unless otherwise stated by the original Author.
+
+Original theme author:
+
+* Zigboom
+
+Pale Moon fork/adaptation:
+
+* Halvar666
+
 
