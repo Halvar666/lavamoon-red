@@ -1,3 +1,4 @@
+![previewred](./assets/previewred.png)
 # LavaMoon Red
 
 LavaMoon Red is a Pale Moon fork/adaptation based on the original LavaFox V2 2.1.1 theme by Zigboom.
@@ -8,7 +9,7 @@ The Pale Moon compatibility adaptation and related compatibility modifications w
 
 ## Status
 
-This is the first stable Pale Moon release of LavaMoon Red.
+Stable Pale Moon release of LavaMoon Red.
 
 ## License
 
